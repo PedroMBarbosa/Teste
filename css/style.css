@@ -1,0 +1,60 @@
+body{
+    background-color: grey;
+}
+h1{
+	color: rgb(172, 21, 21);
+	text-align: center;
+}
+h2{
+	color: rgb(172, 21, 21);
+	text-align: center;
+}
+h3{
+	color: rgb(172, 21, 21);
+	text-align: center;
+}
+a{
+	border: 2px, solid, black;
+	color: rgb(172, 21, 21);
+	text-decoration: none;
+	align-items: center;
+	text-align: center;
+	background: rgb(84, 69, 69);
+	border-radius: 10px;
+	padding: 5px 10px;
+}
+a:hover{
+	color: rgb(254, 42, 45);
+	background: rgb(193, 170, 171);
+}
+p{
+	text-align: center;
+	color: rgb(172, 21, 21);
+}
+div{
+	border: 3px, solid, black;
+}
+hr{
+	background: black;
+	height: 3px;
+}
+.media{
+	width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+video{
+	margin-top: 10px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+audio{
+	margin-top: 20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
